@@ -1,1 +1,1 @@
-My first readme
+The README.me is updated through github
